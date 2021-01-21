@@ -1,2 +1,2 @@
 # STA
-System Trader Academy
+
